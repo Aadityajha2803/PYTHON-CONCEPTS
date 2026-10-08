@@ -1,0 +1,5 @@
+marks = (87, 64, 33, 95, 76)
+maxmarks = max(marks)
+minmarks = min(marks)
+print("The maximum number of marks is:", maxmarks)
+print("The minimum number of marks is:", minmarks)

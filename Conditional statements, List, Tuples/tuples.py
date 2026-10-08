@@ -1,0 +1,7 @@
+fruit1 = input("Enter your first favourite fruit:")
+fruit2 = input ("Enter your second favourite fruit:")
+fruit3 = input("Enter your third favourite fruit:")
+fruitlist = (fruit1, fruit2, fruit3)
+print(fruitlist)
+totalfruits = len(fruitlist)
+print("The total number of fruits is:", totalfruits)

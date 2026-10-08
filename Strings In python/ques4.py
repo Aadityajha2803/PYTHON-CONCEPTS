@@ -1,0 +1,7 @@
+str = input("Enter your sentence:")
+totalch = len(str)
+uppercased = str.upper()
+lowercased = str.lower()
+print("Total number of characters are:", totalch)
+print("Upper case version is:", uppercased)
+print("Lower case version is:", lowercased)

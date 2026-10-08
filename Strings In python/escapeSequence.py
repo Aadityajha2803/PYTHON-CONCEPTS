@@ -1,0 +1,5 @@
+print("Hello\nWorld")
+print("A\tB")
+print("C:\\newfolder")
+print('It\'s great')
+print("He said \"Hi\"")

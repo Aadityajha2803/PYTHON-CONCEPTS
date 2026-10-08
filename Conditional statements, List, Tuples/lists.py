@@ -1,0 +1,10 @@
+marks = [99, 100, 90, 95]
+print(len(marks))
+print(max(marks))
+print(min(marks))
+marks.append(80)
+print(marks)
+marks.insert(1,80)
+print(marks)
+marks.pop(2)
+print(marks)
