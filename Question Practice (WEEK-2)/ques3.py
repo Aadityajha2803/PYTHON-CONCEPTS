@@ -1,4 +1,4 @@
-#PART-11
+#PART-1
 odd_num_check = int(input())
 if odd_num_check % 2 != 0:
     print("Odd")
