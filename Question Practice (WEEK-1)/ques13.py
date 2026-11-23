@@ -190,7 +190,3 @@ else:
     else:
         print("You Failed... You got a U grade in your subject")
     print("Your Average is: ",average)
-
-
-
-
